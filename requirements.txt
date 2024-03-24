@@ -7,7 +7,7 @@ astropy==3.1.1
 attrs==18.2.0
 backcall==0.1.0
 bilby==0.3.5
-black==18.9b0
+black==24.3.0
 bleach==3.3.0
 certifi==2023.7.22
 cffi==1.11.5
