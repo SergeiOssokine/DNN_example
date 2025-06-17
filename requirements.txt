@@ -68,7 +68,7 @@ pexpect==4.6.0
 pickleshare==0.7.5
 pipdate==0.3.2
 prompt-toolkit==2.0.7
-protobuf==3.18.3
+protobuf==4.25.8
 ptyprocess==0.6.0
 pycparser==2.19
 pydot==1.4.1
